@@ -1,0 +1,12 @@
+<footer class="page__footer">
+  <div class="page__footer-copyright">
+    © {{ 'now' | date: '%Y' }} Domainers Portfolio · All rights reserved.
+  </div>
+  {% if site.footer.links -%}
+  <div class="page__footer-links">
+    {%- for link in site.footer.links -%}
+      <a href="{{ link.url }}"><i class="{{ link.icon }}"></i><span class="label">{{ link.label }}</span></a>
+    {%- endfor -%}
+  </div>
+  {%- endif %}
+</footer>

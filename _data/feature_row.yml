@@ -1,0 +1,41 @@
+highlights:
+  - image_path: /assets/images/data-driven.jpg
+    alt: "Data insights"
+    title: "Data‑Driven"
+    excerpt: "Weekly liquidity indices and comparable sales."
+    url: /resources/
+    btn_label: "Explore"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/negotiation.jpg
+    alt: "Negotiation"
+    title: "Negotiation"
+    excerpt: "Battle‑tested scripts for five‑figure deals."
+    url: /posts/
+    btn_label: "Learn"
+  - image_path: /assets/images/community.jpg
+    alt: "Community"
+    title: "Community"
+    excerpt: "Thousands of investors sharing live insights."
+    url: /about/
+    btn_label: "Join"
+
+latest_posts:
+  - image_path: /assets/images/post1-thumb.jpg
+    alt: "Market Pulse"
+    title: "Market Pulse"
+    excerpt: "Weekly aftermarket snapshot."
+    url: /posts/market-pulse-week-29-2025
+    btn_label: "Read"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/post2-thumb.jpg
+    alt: "Case Study"
+    title: "Six‑Figure Flip"
+    excerpt: "From $2k to $250k—full breakdown."
+    url: /posts/case-study-six-figure-flip
+    btn_label: "Open"
+  - image_path: /assets/images/post3-thumb.jpg
+    alt: "Automation"
+    title: "Dropcatch Automation"
+    excerpt: "Hands‑free acquisition workflow."
+    url: /posts/automation-stack-dropcatch
+    btn_label: "View"
